@@ -8,4 +8,4 @@ $I_S(T)$
 
  4.  $\frac{I_{C_2}}{I_{C_1}}=e^\left(\frac{\Delta V_{_\text{BE}}}{V_T}\right)$
 
- \$=V_T\cdot\left(\ln\left(\frac{I_{_{\text{C}_2}}}{I_{_\text{SAT}}}\right)-\ln\left(\frac{I_{_{\text{C}_1}}}{I_{_\text{SAT}}}\right)\right)\\\\$
+ $=V_T\cdot\left(\ln\left(\frac{I_{_{\text{C}_2}}}{I_{_\text{SAT}}}\right)-\ln\left(\frac{I_{_{\text{C}_1}}}{I_{_\text{SAT}}}\right)\right)\\\$
