@@ -6,4 +6,4 @@ $I_S(T)$
 
  3. that if $Vout$ is 10V, then $V_C$ = 1mA. Then, if $I_B ≈ I_C/\beta$, so ($\beta = 100$) $I_B = 10 \mu A$?
 
- 4.  $\frac{I_{C_2}}{I_{C_1}}=e\exp\left(\frac{\Delta V_{_\text{BE}}}{V_T}\right)$
+ 4.  $\frac{I_{C_2}}{I_{C_1}}=e\^(\left(\frac{\Delta V_{_\text{BE}}}{V_T}\right))$
